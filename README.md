@@ -1,4 +1,4 @@
-Приложение на React + Firebase, для просмотра актуальной сетки турнира + статистики 
+Приложение на React + Firebase, для просмотра актуальной сетки турнира + статистики (сортировка по убийствам/смертям/асистам/KDA)
 
 <img width="1256" height="760" alt="image" src="https://github.com/user-attachments/assets/9db9849c-7cf3-4d8a-af3d-b4819e7ddea0" />
 <img width="575" height="859" alt="image" src="https://github.com/user-attachments/assets/e14b79e9-fcbd-4b63-9288-f8c0174d9952" />
