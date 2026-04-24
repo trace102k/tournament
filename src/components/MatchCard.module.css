@@ -1,0 +1,27 @@
+.card {
+  width: 200px;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 16px;
+  padding: 14px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.4);
+  transition: 0.25s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  border-color: rgba(255, 255, 255, 0.15);
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  padding: 3px 0;
+  font-size: 14px;
+  opacity: 0.9;
+}
+
+.winner {
+  color: #2eff7b;
+  font-weight: bold;
+}
