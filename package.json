@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://trace102k.github.io/tournament",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -14,8 +15,7 @@
   "dependencies": {
     "firebase": "^12.12.1",
     "react": "^19.2.5",
-    "react-dom": "^19.2.5",
-    "homepage": "https://github.com/trace102k/tournament"
+    "react-dom": "^19.2.5"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
